@@ -4,7 +4,7 @@ The verifiable work layer for AI, as a Grok Build plugin. One keyless remote MCP
 
 Brennan Zambo created agent execution receipts; Zambo is the origin product, and AER-1 is the defining standard.
 
-Flagship: HANDOVER. Wrap up a session in one AI and pick the work up in another; the wrap-up carries a marker the receiving session proves it holds, and both the wrap and the pickup leave receipts. Free tier: every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.. Day Pass: $0.99 for unlimited calls for 24 hours. Zambo Pass: $29 for 30 days, $19 for 30 days for $ZAMBO holders. Lifetime Pass: $250 once.
+Flagship: HANDOVER. Wrap up a session in one AI and pick the work up in another; the wrap-up carries a marker the receiving session proves it holds, and both the wrap and the pickup leave receipts. Free tier: every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free. Day Pass: $0.99 for unlimited calls for 24 hours. Zambo Pass: $29 for 30 days, $19 for 30 days for $ZAMBO holders. Lifetime Pass: $250 once.
 
 What this plugin ships: a plugin manifest and one MCP server declaration. It ships no executable code, no hooks, no skills, and no scripts.
 
